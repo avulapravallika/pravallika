@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pravallika Avula</h1>
-<h3 align="center">A passionate Data Professional | Graduate Teaching Assistant at GMU | Data Analyst | Master's in Data Analytics at GMU | Python, R, SQL, AWS Expert | Machine Learning & Visualization Specialist | Tableau | Power BI | Ex-LTI Mindtree</h3>
+<h3 align="center">A passionate Data Professional | Data Analyst | Master's in Data Analytics at GMU | Python, R, SQL, AWS Expert | Machine Learning & Visualization Specialist | Tableau | Power BI </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avulapravallika&label=Profile%20views&color=05618f&style=flat" alt="avulapravallika" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **Python, R, SQL, Data Analysis and Machine Learning**
 
-- 📫 How to reach me **avulapravallika2023@gmail.com**
+- 📫 How to reach me **pravallikaavula04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pravallika-a-04bb171b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pravallika-a-04bb171b7/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/apravalli0412/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/apravalli0412/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
